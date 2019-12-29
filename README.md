@@ -17,6 +17,8 @@ I wanted to compare three _Feature extraction_ techniques:
 * UMAP
 * PCA
 
+using the notorious Iris dataset.
+
 ## Example
 
 ![Example](/images/example.png)
