@@ -13,9 +13,9 @@ Feature extraction technique test.
 
 I wanted to compare three _Feature extraction_ techniques:
 
-* t-SNE
-* UMAP
-* PCA
+* [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
+* [UMAP](https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction#Uniform_manifold_approximation_and_projection)
+* [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis)
 
 using the notorious Iris dataset.
 
