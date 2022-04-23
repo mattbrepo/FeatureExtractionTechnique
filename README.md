@@ -1,5 +1,5 @@
 # FeatureExtractionTechnique
-Feature extraction technique test.
+Feature extraction techniques (t-SNE, UMAP, PCA) test. 
 
 [Dimensionality Reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction) is the process of reducing the number of random variables under consideration. It can be divided into two major approaches:
 
